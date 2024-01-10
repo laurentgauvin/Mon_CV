@@ -6,3 +6,9 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
 }
+body {
+     background-image: url('images\auvergne-2862036_640.jpg');
+   
+    opacity: 0.9;
+    
+}
