@@ -1,19 +1,31 @@
 body {
-    background-color: #be8a8a;
+    background-color: #c9a0a0;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
 }
 
 
 h1 {
-    color: #944d4d;
+    color: #8a3e3e;
     font-size: 48px;
     text-align: center;
     text-transform: initial;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
+}
+h3 {
+    color:#8a3e3e;
+}
+
+th {
+    color: #995d5d;
+    text-decoration:underline ;
+}
+
+td {
+    color: #5e2323;
 }
