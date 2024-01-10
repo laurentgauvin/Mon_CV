@@ -1,3 +1,14 @@
+body {
+    background-color: #be8a8a;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
 h1 {
     color: #944d4d;
     font-size: 48px;
@@ -5,10 +16,4 @@ h1 {
     text-transform: initial;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
-}
-body {
-     background-image: url('images\auvergne-2862036_640.jpg');
-   
-    opacity: 0.9;
-    
 }
