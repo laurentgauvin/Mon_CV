@@ -16,6 +16,7 @@ h1 {
     text-transform: initial;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
+    text-shadow: #611d1d 1px 2px 3px;
 }
 h3 {
     color:#611d1d;
@@ -24,8 +25,12 @@ h3 {
 th {
     color: #5f2b2b;
     text-decoration:underline ;
+    text-shadow: 0.2px 0.2px 1px rgb(102, 53, 35);
 }
 
 td {
     color: #5e2323;
+}
+img {
+    border-radius: 2.5%;
 }
